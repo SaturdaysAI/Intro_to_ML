@@ -1,6 +1,6 @@
-This Git contains the FastAi Machine Learning notebooks ready to run them in Google Colab.
+__This Git contains the FastAi Machine Learning notebooks ready to run them in Google Colab.__
 
-Please, visit the official site http://course18.fast.ai/ml
+Please, visit the official site for further information http://course18.fast.ai/ml
 
 # Fast.ai -  Introduction to Machine Learning for Coders
 
@@ -8,6 +8,7 @@ Welcome to Introduction to Machine Learning for Coders! taught by Jeremy Howard.
 Learn the most important machine learning models, including how to create them yourself from scratch, as well as key skills in data preparation, model validation, and building data products. 
 
 - Lesson 1 - Introduction to Random Forests 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Intro_to_ML/blob/master/Machine%20Learning/lesson1_randomforest.ipynb/master)
   video:  https://www.youtube.com/watch?v=CzdWqFTmn0Y
   notebook: https://github.com/Giffy/fast.ai/blob/master/Machine%20Learning/lesson1_randomforest.ipynb
 
