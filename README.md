@@ -2,4 +2,4 @@
 
 ### Also, you can execute the notebooks online launching "binder", clicking in the button below:
 
-https://mybinder.org/v2/gh/SaturdaysAI/Intro_to_ML/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Intro_to_ML/master)
